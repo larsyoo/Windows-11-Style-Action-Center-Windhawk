@@ -2,9 +2,30 @@
 
 Bring a **Windows 11-inspired Action Center** to **Windows 10** using Windhawk!
 
-This style modifies the Windows 10 Action Center to give it a more modern Windows 11-like appearance, including **rounded corners** and other visual tweaks inspired by the Windows 11 design language.
+> [!IMPORTANT]
+> ### 📜 Credits & Licensing
+>
+> The original code was **not written by me**.
+>
+> The code was sent to me by **xuelan9537 on Discord**. I modified and adjusted it and am redistributing my modified version through this GitHub repository.
+>
+> Credit for the original code goes to its respective creator(s), with special thanks to **xuelan9537** for sharing it with me.
+>
+> **Please note:** I do not claim ownership of the original code. Any modifications made by me are provided as-is. Please respect the licensing and rights of the original author(s).
 
-### ✨ Features
+## 🖼️ Preview
+
+![Windows 11 Action Center Style Preview](preview.png)
+
+> A preview of the Windows 11-inspired Action Center running on Windows 10.
+
+## ✨ About
+
+This style modifies the **Windows 10 Action Center** to give it a more modern, Windows 11-inspired appearance.
+
+It includes **rounded corners** and other visual tweaks based on the Windows 11 design language while keeping the functionality of the original Windows 10 Action Center.
+
+## ✨ Features
 
 - 🪟 Windows 11-inspired Action Center design
 - ⭕ Rounded corners
@@ -12,24 +33,30 @@ This style modifies the Windows 10 Action Center to give it a more modern Window
 - 🧩 Designed for use with Windhawk
 - 💻 Keeps the functionality of the original Windows 10 Action Center
 
-### 📢 How to setup
-- First, download Windhawk from https://windhawk.net/
-- Launch it and head to the "Explore" Tab
-- then, search for "Windows 11 Notification Center Styler" and Install it.
-- after Installing, go to the Settings Tab on the Mod Information page, and click on "Textual Mode"
-- Delete all Code from the Textbox, and paste in the Code from Windhawk-Mod.txt - Click Apply.
+## 📢 How to Set Up
 
-### 👏 Credits
+1. Download and install **Windhawk** from `https://windhawk.net/`.
+2. Launch Windhawk and head to the **Explore** tab.
+3. Search for **Windows 11 Notification Center Styler** and install it.
+4. After installing, open the mod and go to the **Advanced** tab.
+5. Click  on Mod Settings Textbox.
+7. Copy and paste the code from `Windhawk-Mod.txt`.
+8. Click **Save**.
 
-The original code was **not written by me**.
+That's it! Your Windows 10 Action Center should now have the customized Windows 11-inspired appearance.
 
-The code was originally sent to me by **xuelan9537 on Discord**. I modified and adjusted it to create this version and redistributed my modified version through this GitHub repository.
+## 📋 Requirements
 
-Credit for the original code goes to its respective creator(s), and special thanks to **xuelan9537** for sharing it with me.
+- **Windows 10**
+- **Windhawk**
+- **Windows 11 Notification Center Styler** Windhawk mod
 
-### 📋 Requirements
+## ⚠️ Disclaimer
 
-- Windows 10
-- Windhawk
+This project is an unofficial community modification and is **not affiliated with or endorsed by Microsoft or Windhawk**.
 
-Enjoy a little bit of the **Windows 11 look while staying on Windows 10!** 🪟✨
+Compatibility may vary depending on your Windows 10 version, Windhawk version, and other installed modifications.
+
+---
+
+Enjoy a bit of the **Windows 11 look while staying on Windows 10!** 🪟✨
