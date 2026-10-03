@@ -12,6 +12,13 @@ This style modifies the Windows 10 Action Center to give it a more modern Window
 - 🧩 Designed for use with Windhawk
 - 💻 Keeps the functionality of the original Windows 10 Action Center
 
+### 📢 How to setup
+- First, download Windhawk from https://windhawk.net/
+- Launch it and head to the "Explore" Tab
+- then, search for "Windows 11 Notification Center Styler" and Install it.
+- after Installing, go to the Settings Tab on the Mod Information page, and click on "Textual Mode"
+- Delete all Code from the Textbox, and paste in the Code from Windhawk-Mod.txt - Click Apply.
+
 ### 👏 Credits
 
 The original code was **not written by me**.
