@@ -17,7 +17,7 @@ Bring a **Windows 11-inspired Action Center** to **Windows 10** using Windhawk!
 
 ![Windows 11 Action Center Style Preview](preview.png)
 
-> A preview of the Windows 11-inspired Action Center running on Windows 10.
+> A preview of the Windows 11-inspired Action Center running on a real machine.
 
 ## ✨ About
 
