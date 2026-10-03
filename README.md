@@ -55,7 +55,7 @@ That's it! Your Windows 10 Action Center should now have the customized Windows 
 
 This project is an unofficial community modification and is **not affiliated with or endorsed by Microsoft or Windhawk**.
 
-Compatibility may vary depending on your Windows 10 version, Windhawk version, and other installed modifications.
+Compatibility may vary depending on your Windows 10 version, Windhawk version, and other installed modifications, tho this does work on Windows 10 22H2.
 
 ---
 
